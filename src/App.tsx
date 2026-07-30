@@ -166,7 +166,7 @@ const defaultAppSettings: AppSettings = {
   apiKey: "",
 };
 
-const githubRepositoryUrl = "https://github.com/bowLand6/image-studio-web";
+const githubRepositoryUrl = "https://github.com/RainbowLand6/image-studio-web";
 
 const imageSizes = [
   "512 x 1280",
